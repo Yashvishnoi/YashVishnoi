@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate on Java projects
 - 🤔 I’m looking for help with :) DSA
 - 💬 Ask me about Open Source
-- 📫 How to reach me:
-- 
+- 📫 How to reach me: 
 -   <a href="https://twitter.com/Yashvis99284225">
     <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="YASH TWITTER Profile" width="22px" align="left"></a>
     <a href="https://www.linkedin.com/in/yash-vishnoi-4a75851a1/">
@@ -29,3 +28,4 @@
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
+
