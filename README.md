@@ -1,10 +1,10 @@
 ### Here is I am working on:  👋
  
- - 🔭 I’m currently working on Html,Css
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on Java projects
-- 🤔 I’m looking for help with :) DSA
-- 💬 Ask me about Open Source
+ - 🔭 I’m currently working on <img src="https://images.app.goo.gl/4WwJpidknujgD6qL6" width="22px" align="left"></a>
+- 🌱 I’m currently learning  <img src="https://images.app.goo.gl/1croHbnThNUACVRm7" width="22px" align="left"></a>
+- 👯 I’m looking to collaborate on <img src="https://images.app.goo.gl/MpxnpCS7dwmSma1Y7" width="22px" align="left"></a>
+- 🤔 I’m looking for help with :) <img src="https://images.app.goo.gl/MpxnpCS7dwmSma1Y7" width="22px" align="left"></a>
+- 💬 Ask me about <img src="https://images.app.goo.gl/sWncayDfC6AcHB1L6" width="22px" align="left"></a>
 - 📫 How to reach me: 
 -   <a href="https://twitter.com/Yashvis99284225">
     <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="YASH TWITTER Profile" width="22px" align="left"></a>
