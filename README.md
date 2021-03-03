@@ -14,8 +14,7 @@
     <img alt="Yash's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left">   </a><br>
 - 😄 Pronouns: Babaji
 - ⚡ Fun fact: :( I am half finish 
-- Hackerrank =<a href="https://www.hackerrank.com/jivishnoi">
-    <img src="https://images.app.goo.gl/rXAU4LY7AMhc68Gk9" alt="YASH HACKERRANK Profile" width="22px" align="left"></a>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yashvishnoi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
