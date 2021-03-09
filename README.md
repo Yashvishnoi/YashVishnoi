@@ -1,8 +1,8 @@
 ### Here is I am working on:  👋
  
- - 🔭 I’m currently working on HTML CSS
+ - 🔭 I’m currently Building Skills. 
 - 🌱 I’m currently learning  JAVA
-- 👯 I’m looking to collaborate on OPEN SOURCE
+- 👯 I’m looking to collaborate on JAVA PROJECTS
 - 🤔 I’m looking for help with :) 
 - 💬 Ask me about :)
 - 📫 How to reach me: 
