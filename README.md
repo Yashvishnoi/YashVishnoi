@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Hackerrank&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Hackerrank&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Maven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Photoshop&logoColor=white&color=2bbc8a)
 
 
