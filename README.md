@@ -33,17 +33,6 @@ Currently building hands-on skills with **AWS, Kubernetes, Terraform, Linux, Pyt
 
 Cloud Infrastructure • DevOps • Automation • Kubernetes • Linux • SRE
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashvishnoi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvishnoi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
